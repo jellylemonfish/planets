@@ -4,3 +4,5 @@ Hello, universe!
 您好，宇宙！
 
 change: version 2
+
+But the Mummy will appreciate the lack of humidity
